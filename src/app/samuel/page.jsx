@@ -1,6 +1,6 @@
 
 const Samuel = () => {
-const data= "hola esta es para probras el cambio de estado de git"
+const data= "rama main"
   return (
     <div>
       <h1>Hola desde Next.js</h1>
